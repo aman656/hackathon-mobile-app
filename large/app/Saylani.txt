@@ -1,0 +1,74 @@
+const SylaniPoint = [
+      {
+        id: "1",
+        coordinate: {
+          latitude: 24.9200172,
+          longitude: 67.0612345,
+        },
+        title: "Aliabad",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "2",
+        coordinate: {
+          latitude: 24.8732834,
+          longitude: 67.0337457,
+        },
+        title: "Numaish chowrangi",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "3",
+        coordinate: {
+          latitude: 24.8278999,
+          longitude: 67.0688257,
+        },
+        title: "Saylani house phase 2",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "4",
+        coordinate: {
+          latitude: 24.8138924,
+          longitude: 67.0677652,
+        },
+        title: "Touheed commercial",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "5",
+        coordinate: {
+          latitude: 24.8949528,
+          longitude: 67.1767206,
+        },
+        title: "Jinnah avenue",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "6",
+        coordinate: {
+          latitude: 24.9132328,
+          longitude: 67.1246195,
+        },
+        title: "Johar chowrangi",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "7",
+        coordinate: {
+          latitude: 24.9100704,
+          longitude: 67.1208811,
+        },
+        title: "Johar chowrangi 2",
+        icon: require("../assets/marker.png"),
+      },
+      {
+        id: "8",
+        coordinate: {
+          latitude: 24.8673515,
+          longitude: 67.0724497,
+        },
+        title: "Hill park",
+        icon: require("../assets/marker.png"),
+      },
+    ];
